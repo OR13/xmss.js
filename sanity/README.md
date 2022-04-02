@@ -1,4 +1,0 @@
-```
-go build
-./sanity
-```

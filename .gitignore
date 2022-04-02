@@ -1,3 +1,5 @@
 sanity
 main.wasm
 node_modules
+
+dist
