@@ -3,3 +3,5 @@ main.wasm
 node_modules
 
 dist
+
+.DS_Store
